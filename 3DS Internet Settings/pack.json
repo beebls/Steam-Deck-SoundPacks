@@ -1,0 +1,9 @@
+{
+  "name": "3DS Internet Settings",
+  "description": "This adds the beloved Internet Settings music from the Nintendo 3DS as background music while navigating the Steam Deck's menus.",
+  "author": "Beebles",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
