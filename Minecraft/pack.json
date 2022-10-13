@@ -33,7 +33,7 @@
       "bowhit3.ogg",
       "bowhit4.ogg"
     ],
-    "deck_ui_achievement_toast": ["achievement.ogg"],
+    "deck_ui_achievement_toast.wav": ["achievement.ogg"],
     "deck_ui_navigation.wav": [
       "amethyst1.ogg",
       "amethyst2.ogg",
