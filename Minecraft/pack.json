@@ -1,0 +1,87 @@
+{
+  "name": "Minecraft",
+  "description": "Sound effects from various blocks/items in Minecraft, with multiple sounds per effect that are randomized",
+  "author": "Beebles",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [
+    "bumper_end.wav",
+    "confirmation_negative.wav",
+    "confirmation_positive.wav",
+    "deck_ui_misc_01.wav",
+    "deck_ui_misc_08.wav",
+    "deck_ui_tile_scroll.wav",
+    "pop_sound.wav",
+    "steam_at_mention.m4a",
+    "ui_steam_smoother_friend_join.m4a",
+    "ui_steam_smoother_friend_online.m4a",
+    "steam_chatroom_notification.m4a",
+    "deck_ui_message_toast.wav",
+    "deck_ui_volume.wav"
+  ],
+  "mappings": {
+    "deck_ui_misc_10.wav": [
+      "stone1.ogg",
+      "stone2.ogg",
+      "stone3.ogg",
+      "stone4.ogg"
+    ],
+    "deck_ui_bumper_end_02.wav": [
+      "bowhit1.ogg",
+      "bowhit2.ogg",
+      "bowhit3.ogg",
+      "bowhit4.ogg"
+    ],
+    "deck_ui_achievement_toast": ["achievement.ogg"],
+    "deck_ui_navigation.wav": [
+      "amethyst1.ogg",
+      "amethyst2.ogg",
+      "amethyst3.ogg",
+      "amethyst4.ogg"
+    ],
+    "deck_ui_typing.wav": [
+      "typing/amethyst-step1.ogg",
+      "typing/amethyst-step2.ogg",
+      "typing/amethyst-step3.ogg",
+      "typing/amethyst-step4.ogg",
+      "typing/amethyst-step5.ogg",
+      "typing/amethyst-step6.ogg",
+      "typing/amethyst-step7.ogg",
+      "typing/amethyst-step8.ogg",
+      "typing/amethyst-step9.ogg",
+      "typing/amethyst-step10.ogg",
+      "typing/amethyst-step11.ogg",
+      "typing/amethyst-step12.ogg",
+      "typing/amethyst-step13.ogg",
+      "typing/amethyst-step14.ogg"
+    ],
+    "deck_ui_default_activation.wav": [
+      "wood1.ogg",
+      "wood2.ogg",
+      "wood3.ogg",
+      "wood4.ogg"
+    ],
+    "deck_ui_toast.wav": ["levelup.ogg"],
+    "deck_ui_launch_game.wav": ["return1.ogg", "return2.ogg", "return3.ogg"],
+    "deck_ui_switch_toggle_off.wav": ["click.ogg"],
+    "deck_ui_switch_toggle_on.wav": ["click.ogg"],
+    "deck_ui_slider_down.wav": ["wood_click.ogg"],
+    "deck_ui_slider_up.wav": ["wood_click.ogg"],
+    "deck_ui_show_modal.wav": ["openclose/shulkeropen.ogg"],
+    "deck_ui_hide_modal.wav": ["openclose/shulkerclosed.ogg"],
+    "deck_ui_side_menu_fly_in.wav": ["openclose/chestopen.ogg"],
+    "deck_ui_side_menu_fly_out.wav": ["openclose/chestclosed.ogg"],
+    "ui_steam_message_old_smooth.m4a": ["bell1.ogg", "bell2.ogg"],
+    "deck_ui_into_game_detail.wav": ["fill1.ogg", "fill2.ogg"],
+    "deck_ui_out_of_game_detail.wav": ["empty1.ogg", "empty2.ogg"],
+    "deck_ui_tab_transition_01.wav": [
+      "equip_generic1.ogg",
+      "equip_generic2.ogg",
+      "equip_generic3.ogg",
+      "equip_generic4.ogg",
+      "equip_generic5.ogg",
+      "equip_generic6.ogg"
+    ]
+  }
+}
